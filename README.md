@@ -25,3 +25,4 @@ Then visit `http://localhost:8000/`.
 - Deployed by: `Silverfish-0`
 - Repository: `Silverfish-0/great-dusk-forecast`
 - Pages source: root of the `main` branch
+- Public site: `https://silverfish-0.github.io/great-dusk-forecast/`
